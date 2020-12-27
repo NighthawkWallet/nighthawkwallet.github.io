@@ -23,7 +23,7 @@ your_link                                 : https://www.nigthhawkwallet.com
 your_city                                 :                                 
 email_address                             : nighthawkwallet@protonmail.com
 facebook_username                         :  
-instagram_username                         :                                           
+instagram_username                        :                                           
 twitter_username                          : NighthawkWallet
 github_username                           : nighthawk-apps
 youtube_username                          :
@@ -33,47 +33,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Zcash is a digital currency, or cryptocurrency, like Bitcoin. 
+    description                           : In fact, Zcash was built on the original Bitcoin code base. It was conceived by scientists at MIT, Johns Hopkins and other respected academic and scientific institutions.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Nighthawk is based off ECC Native Mobile Wallets
+    description                           : The source code is open and undergoing constant improvements and updates.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Nighthawk is a light-wallet
+    description                           : Nighthawk requires trust in the lightwalletd server to display accurate transaction information.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Custom lightwalletd server in Android
+    description                           : Change the lightwalletd server to replace the default one, only on Nighthawk for Android
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Nighthawk is a non-custodial wallet for Zcash
+    description                           : Users have sole responsibility over their funds on Nighthawk. Please immediately and securely back up the seed words upon creating a wallet.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Learn more at z.cash
+    description                           : https://www.z.cash 
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Nighthawk Support
+    description                           : Having issues? Please connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
     fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
