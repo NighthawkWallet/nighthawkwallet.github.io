@@ -11,7 +11,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Nighthawk is a shielded Zcash light-wallet with support for z-addresses, including sending & receiving shielded transactions, memo support & sending ZEC to t-addresses.
+app_description                           : Nighthawk is a shielded light-wallet for Zcash with support for sending & receiving shielded transactions, memos & sending ZEC to t-addresses.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
