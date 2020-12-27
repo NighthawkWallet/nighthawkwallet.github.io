@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Nighthawk Apps                              
-your_link                                 : https://www.nigthhawkwallet.com 
+your_link                                 : 
 your_city                                 :                                 
 email_address                             : nighthawkwallet@protonmail.com
 facebook_username                         :  
@@ -52,10 +52,6 @@ features                                  :
   - title                                 : Nighthawk is a non-custodial wallet for Zcash
     description                           : Users have sole responsibility over their funds on Nighthawk. Please immediately and securely back up the seed words upon creating a wallet.
     fontawesome_icon_name                 : star
-
-  - title                                 : Learn more at z.cash
-    description                           : https://www.z.cash 
-    fontawesome_icon_name                 : link
 
   - title                                 : Nighthawk Support
     description                           : Having issues? Please connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
