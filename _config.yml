@@ -15,8 +15,6 @@ app_description                           : Nighthawk is a shielded Zcash light-
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
-
-
 # Information About Yourself
 your_name                                 : Nighthawk Apps                              
 your_link                                 : 
@@ -27,8 +25,6 @@ instagram_username                        :
 twitter_username                          : NighthawkWallet
 github_username                           : nighthawk-apps
 youtube_username                          :
-
-
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
@@ -42,7 +38,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Nighthawk is a light-wallet
-    description                           : Nighthawk requires trust in the lightwalletd server to display accurate transaction information.
+    description                           : Using Nighthawk requires trust in the lightwalletd server to display accurate transaction information.
     fontawesome_icon_name                 : sync
 
   - title                                 : Custom lightwalletd server in Android
@@ -53,7 +49,7 @@ features                                  :
     description                           : Users have sole responsibility over their funds on Nighthawk. Please immediately and securely back up the seed words upon creating a wallet.
     fontawesome_icon_name                 : star
 
-  - title                                 : Nighthawk Support
+  - title                                 : Support
     description                           : Having issues? Please connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
     fontawesome_icon_name                 : info-circle
 
@@ -86,18 +82,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
-
-
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
