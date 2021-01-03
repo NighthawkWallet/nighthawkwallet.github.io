@@ -11,6 +11,14 @@ include_in_header: true
 
 ### `Latest`
 
+<br>
+
+## **Version 1.0.10 *(2021-01-01)**
+- Fix: Use LockBox Server Settings.
+- Update dependencies for material and lottie libs.
+
+<br>
+
 ## **Version 1.0.9 *(2020-12-20)**
 - New: Upgrade to the latest Zcash SDK.
 - New: Implement ZIP-313, reducing the default fee from 10,000 to 1,000 zats.
