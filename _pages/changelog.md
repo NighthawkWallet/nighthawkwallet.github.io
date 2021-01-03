@@ -13,13 +13,13 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.10 *(2021-01-01)**
+## **Version 1.0.10 (2021-01-01)**
 - Fix: Use LockBox Server Settings.
 - Update dependencies for material and lottie libs.
 
 <br>
 
-## **Version 1.0.9 *(2020-12-20)**
+## **Version 1.0.9 (2020-12-20)**
 - New: Upgrade to the latest Zcash SDK.
 - New: Implement ZIP-313, reducing the default fee from 10,000 to 1,000 zats.
 - New: Adds authentication prior to viewing backup seed words.
@@ -34,7 +34,7 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.8 *(2020-11-15)**
+## **Version 1.0.8 (2020-11-15)**
 - Enable deshielding ZEC transaction z -> t
 - Update dependencies and gradle build setup
 - Simplify Send transaction flow
@@ -43,7 +43,7 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.7 *(2020-08-29)**
+## **Version 1.0.7 (2020-08-29)**
 - Switch default lightwalletd server to Nighthawk's own no-Logs, non-US based server
 - Theming & copy updates
 - Update dependencies
@@ -51,7 +51,7 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.6 *(2020-08-24)**
+## **Version 1.0.6 (2020-08-24)**
 - Update to latest librustzcash SDK lib & android dependencies
 - Fix New Wallet creation
 - Fix SideShift affiliate url
@@ -64,7 +64,7 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.5 *(2020-08-01)**
+## **Version 1.0.5 (2020-08-01)**
 - Revamp Wallet UI, add Zash info link
 - Update donation address, add SideShift.ai integration
 - Default to ZecWallet server, Thanks @adityapk!
@@ -72,12 +72,12 @@ include_in_header: true
 
 <br>
 
-## **Version 1.0.4 *(2020-07-22)**
+## **Version 1.0.4 (2020-07-22)**
 - Fix a bug in resolving transaction history
 
 <br>
 
-Version 1.0.3 *(2020-07-20)**
+Version 1.0.3 (2020-07-20)**
 - New Settings screen with the ability to point to a lighthttpd server of user's choice.
 - Switch to "Reply-To" from "sent-from" because the former underscores the idea that the given address is not necessarily the address that originated the transaction.
 - Update dependencies and secure the lighthttpd setting via EncryptedSharedPreferences
@@ -85,7 +85,7 @@ Version 1.0.3 *(2020-07-20)**
 
 <br>
 
-## **Version 1.0.2 *(2020-07-09)**
+## **Version 1.0.2 (2020-07-09)**
 - Remove Feedback Module, Crashlytics & Mixpanel libs
 - Fix SSL handshake failure
 - Fix for bad QR scan & Navigation after sending ZEC.
@@ -100,7 +100,7 @@ Version 1.0.3 *(2020-07-20)**
 
 <br>
 
-## **Version 1.0.0 *(2020-06-16)**
+## **Version 1.0.0 (2020-06-16)**
 - Repackage to Nighthawk Wallet
 - Removed Analytics Reporting
 - Changed package naming & logo
@@ -109,7 +109,7 @@ Version 1.0.3 *(2020-07-20)**
 
 <br>
 
-## **Version 1.0.0-alpha23 *(2020-02-21)**
+## **Version 1.0.0-alpha23 (2020-02-21)**
 - Fix: reorg improvements, squashing critical bugs that disabled wallets
 - New: extend analytics to include taps, screen views, and send flow.
 - New: add crash reporting via Crashlytics.
@@ -121,7 +121,7 @@ Version 1.0.3 *(2020-07-20)**
 
 <br>
 
-## **Version 1.0.0-alpha17 *(2020-02-07)**
+## **Version 1.0.0-alpha17 (2020-02-07)**
 - New: implemented wallet import
 - New: display the memo when tapping outbound transactions
 - Fix: removed the sad zebra and softened wording for sending z->t
@@ -145,12 +145,12 @@ Version 1.0.3 *(2020-07-20)**
 
 <br>
 
-## **Version 1.0.0-alpha11 *(2020-01-15)**
+## **Version 1.0.0-alpha11 (2020-01-15)**
 - Initial ECC release
 
 <br>
 
-## **Version 1.0.0-alpha03 *(2019-12-18)**
+## **Version 1.0.0-alpha03 (2019-12-18)**
 - Initial internal wallet team release
 
 <br>
