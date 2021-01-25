@@ -4,20 +4,27 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-## Nighthawk Android
+### `Nighthawk Android Changelog`
 
 <br>
 
-### `Latest`
+## **Version 1.0.13 (2021-01-24)**
+- Fix crash in magicsnakeloader.
+- Handle NumberFormatException.
+- Add donation address under Settings.
 
 <br>
+
+## **Version 1.0.12 (2021-01-20)**
+- Fix crash when restoring wallet.
+
+## **Version 1.0.11 (2021-01-18)**
+- Add price query via Nighthawk Server Cached Proxy.
+- Update dependencies & Zcash-SDK.
 
 ## **Version 1.0.10 (2021-01-01)**
 - Fix: Use LockBox Server Settings.
 - Update dependencies for material and lottie libs.
-
-<br>
 
 ## **Version 1.0.9 (2020-12-20)**
 - New: Upgrade to the latest Zcash SDK.

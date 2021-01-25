@@ -34,7 +34,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Nighthawk is powered by ECC reference mobile wallets
-    description                           : The source code is open and constantly improving with updates. ECC supports Zcash through research and development, engineering, partnerships and regulatory efforts.
+    description                           : ECC supports Zcash through research and development, engineering, partnerships and regulatory efforts.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Nighthawk is a light-wallet

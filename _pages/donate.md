@@ -4,9 +4,7 @@ title: Donate
 include_in_header: true
 ---
 
-# Donate
-
-<br>
+# Donate to Nighthawk Developers
 
 ## **Zcash**
 zs1nhawkewaslscuey9qhnv9e4wpx77sp73kfu0l8wh9vhna7puazvfnutyq5ymg830hn5u2dmr0sf
