@@ -11,7 +11,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Nighthawk is a shielded wallet for Zcash with support for sending & receiving transactions & memos.
+app_description                           : Nighthawk is a shielded wallet for Zcash with support for sending & receiving ZEC transactions & memos.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -29,8 +29,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Using Zcash is just like carrying cash in your wallet
-    description                           : BTC transactions on the other hand, are like carrying cash in a transparent jar hanging around your neck.
+  - title                                 : Zcash is digital money
+    description                           : Fast and confidential with low fees — built for Internet and Mobile transactions
     fontawesome_icon_name                 : magic
     
   - title                                 : Nighthawk is powered by ECC reference mobile wallets
@@ -50,7 +50,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Need Help?
-    description                           : Please connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
+    description                           : Connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
     fontawesome_icon_name                 : info-circle
 
 # Theme Settings
