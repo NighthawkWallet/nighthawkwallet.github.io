@@ -8,6 +8,20 @@ include_in_header: true
 
 <br>
 
+## **Version 1.0.17 *(2021-03-31)**
+- Switch price endpoint to api.lightwalletd.com
+
+## **Version 1.0.16 *(2021-03-24)**
+- Better handling around unsatisfied link errors.
+
+## **Version 1.0.15 *(2021-03-21)**
+- Fix block rescan error.
+
+## **Version 1.0.14 *(2021-03-17)**
+- Connect to lightwalletd.com service funded by ZOMG.
+- Remove Google Services dependency.
+- Support QR code scan on ZecPages.
+
 ## **Version 1.0.13 (2021-01-24)**
 - Fix crash in magicsnakeloader.
 - Handle NumberFormatException.
