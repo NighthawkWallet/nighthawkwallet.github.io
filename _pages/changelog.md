@@ -23,7 +23,7 @@ include_in_header: true
 |Refactor Send Transaction flow on Android  | Planned for Milestone 2 | https://github.com/zcash/zcash-android-wallet/issues/245 |
 |Accessibility fixes on iOS | Done | Fixed device Home Screen issue https://github.com/zcash/zcash-ios-wallet/issues/252 |
 |Add in-app message to notify users of any known issues with the app or the network | Done |  Updated Banner with Network & Auto-shielding statushttps://github.com/nighthawk-apps/nighthawk-wallet-android/issues/31|
-|Integrate Flexa Spend SDK | 5% | Initial contact and Nighthawk requirements to not initialize the library till the user opts in shared with Flexa team, waiting on the availability of the release to start this work (target Milestone 2/3) https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
+|Integrate Flexa Spend SDK | 5% | Initial contact and Nighthawk requirements (to not initialize the library till the user opts in) is shared with Flexa team, waiting on the availability of the release to start this work (target Milestone 2/3) https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
 |Add exchange support (optional)  | 5% | Evaluated integration with MoonPay & Transak(limited to T-addresses), and looking forward for Zcash Thorchain Integration for Native Swap integration within Nightawk https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | Planned for Milestone 3 | https://github.com/zcash-hackworks/we-accept-zcash-ios |
 |UX Group Study | Planned October 2021 | Design Phase will begin following NU5 |
