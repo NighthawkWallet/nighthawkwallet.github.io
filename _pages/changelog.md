@@ -4,8 +4,8 @@ title: What's New
 include_in_header: true
 ---
 
-###Nighthawk Wallet Design & Development '21
-# Updated July 10, 2021
+# Nighthawk Wallet Design & Development '21
+## Updated July 10, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -31,7 +31,7 @@ include_in_header: true
 
 <br>
 
-# CHANGELOG
+# Changelog
 
 ## **Version 1.0.19 *(2021-05-13)**
 - Hotfix: Remove un-used flags during wallet creation. 
