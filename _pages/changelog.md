@@ -19,8 +19,8 @@ include_in_header: true
 |Resolve 0 balance bug on Android | Done | https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/27 |
 |Add option to Rescan wallet to debug issues | Done | Rescan option added under Profile for easy debugging of issues https://github.com/zcash/zcash-android-wallet/issues/223 |
 |View USD value of ZEC balance  | 50% | Initial Zcash balance polling via proxy server querying Gemini Exchange on a per minute basis was completed. An updated integration to get the ZEC/USD price via lightwalletd service is being developed. https://github.com/zcash/zcash-android-wallet/issues/231 |
-|Update Transaction Details Screen  | Work in Progress | https://github.com/zcash/zcash-android-wallet/issues/239 |
-|Refactor Send Transaction flow on Android  | Planned for Milestone 2 | https://github.com/zcash/zcash-android-wallet/issues/245 |
+|Update Transaction Details Screen  | Done | https://github.com/zcash/zcash-android-wallet/issues/239 |
+|Refactor Send Transaction flow on Android  | Planned for Milestone 2 | Support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
 |Accessibility fixes on iOS | Done | Fixed device Home Screen issue https://github.com/zcash/zcash-ios-wallet/issues/252 |
 |Add in-app message to notify users of any known issues with the app or the network | Done |  Updated Banner with Network & Auto-shielding statushttps://github.com/nighthawk-apps/nighthawk-wallet-android/issues/31|
 |Integrate Flexa Spend SDK | 5% | Initial contact and Nighthawk requirements (to not initialize the library till the user opts in) is shared with Flexa team, waiting on the availability of the release to start this work (target Milestone 2/3) https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
@@ -32,6 +32,28 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.20 *(2021-07-12)**
+- New: Added workflow for automatically shielding funds.
+- New: Automatically recover from more network failure states.
+- New: Link to play store from the build number.
+- New: Hide available/total toggle when there are no pending funds.
+- New: Updated checkpoints for mainnet and testnet.
+- New: Address tabs with t-address support [Credit @herou].
+- New: Balance details screen [Credit @herou].
+- New: Better balance information around unmined transactions.
+- New: Add toggle to show available vs. total funds.
+- New: Auto-shielding via balance details screen.
+- Fix: Expand tappable area for showing the balance details.
+- Fix: Off by one error when calculating confirmations.
+- Fix: Do not show time in transaction details for pending transactions.
+- Fix: Repaired QR scanning on older devices (below API 24).
+- Fix: Several of the most frequent crashes reported in bugsnag.
+- Fix: Corrected over-sized icon in history.
+- Fix: History no longer displays negative balance during initial sync.
+- Fix: Errors that prevented sync from working in some situations.
+- Fix: Improved support for smaller screens and older devices. 
+- Update ECC & Android dependencies.
 
 ## **Version 1.0.19 *(2021-05-13)**
 - Hotfix: Remove un-used flags during wallet creation. 
