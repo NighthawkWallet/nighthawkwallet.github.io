@@ -33,7 +33,7 @@ include_in_header: true
 
 # Changelog
 
-## **Version 1.0.20 *(2021-07-12)**
+## **Version 1.0.20 (2021-07-12)**
 - New: Added workflow for automatically shielding funds.
 - New: Automatically recover from more network failure states.
 - New: Link to play store from the build number.
@@ -55,24 +55,24 @@ include_in_header: true
 - Fix: Improved support for smaller screens and older devices. 
 - Update ECC & Android dependencies.
 
-## **Version 1.0.19 *(2021-05-13)**
+## **Version 1.0.19 (2021-05-13)**
 - Hotfix: Remove un-used flags during wallet creation. 
 
-## **Version 1.0.18 *(2021-05-08)**
+## **Version 1.0.18 (2021-05-08)**
 - Add the ability to rescan or wipe the wallet for troubleshooting.
 - Fix issue when syncing transactions after sending MAX balance out of wallet.
 - Update ECC dependencies.
 
-## **Version 1.0.17 *(2021-03-31)**
+## **Version 1.0.17 (2021-03-31)**
 - Switch price endpoint to api.lightwalletd.com
 
-## **Version 1.0.16 *(2021-03-24)**
+## **Version 1.0.16 (2021-03-24)**
 - Better handling around unsatisfied link errors.
 
-## **Version 1.0.15 *(2021-03-21)**
+## **Version 1.0.15 (2021-03-21)**
 - Fix block rescan error.
 
-## **Version 1.0.14 *(2021-03-17)**
+## **Version 1.0.14 (2021-03-17)**
 - Connect to lightwalletd.com service funded by ZOMG.
 - Remove Google Services dependency.
 - Support QR code scan on ZecPages.
