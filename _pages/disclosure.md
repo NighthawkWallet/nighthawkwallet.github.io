@@ -25,7 +25,7 @@ There are some known areas for improvement:
 - This app depends upon related libraries that it uses. There may be bugs.
 - This wallet currently only supports transacting between shielded addresses, which makes it incompatible with wallets that do not support sending to shielded addresses. 
 - Traffic analysis, like in other cryptocurrency wallets, can leak some privacy of the user.
-- The wallet requires a trust in the lighthttps server to display accurate transaction information. 
+- The wallet requires a trust in the lighthttpd server to display accurate transaction information. 
 - This app has been developed and run exclusively on `mainnet` it might not work on `testnet`.  
 
 See the [Wallet App Threat Model](https://zcash.readthedocs.io/en/latest/rtd_pages/wallet_threat_model.html)
