@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Nighthawk is powered by ECC reference mobile wallets
     description                           : ECC supports Zcash through research and development, engineering, partnerships and regulatory efforts.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Nighthawk is a light-wallet
     description                           : Using Nighthawk requires trust in the lightwalletd server(that stores the Zcash blockchain) to display accurate transaction information.
