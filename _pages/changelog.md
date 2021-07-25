@@ -14,7 +14,7 @@ include_in_header: true
 |ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 2 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
 |Publish Nighthawk Wallet on the F-Droid Store | 50% | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
 |New User onboarding & tutorial | Planned for Milestone 3 | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
-|Optional backup of seed words | Planned for Milestone 2 | https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/29 |
+|Optional backup of seed words | 50% | Available on Android |
 |Support language translations for top 10 languages | 10% | Evaluated several language translation services, Planned Milestone 2 https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/28 |
 |Resolve 0 balance bug on Android | Done | https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/27 |
 |Add option to Rescan wallet to debug issues | Done | Rescan option added under Profile for easy debugging of issues https://github.com/zcash/zcash-android-wallet/issues/223 |
@@ -32,6 +32,11 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.21 (2021-07-25)**
+- New: Export Wallet Seed Words to a Password Protected PDF.
+- New: Default to ZcashBlockExplorer.com for tx details.
+- Upgrade dependencies.
 
 ## **Version 1.0.20 (2021-07-12)**
 - New: Added workflow for automatically shielding funds.

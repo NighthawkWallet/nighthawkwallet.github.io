@@ -5,9 +5,9 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 10 2020
+July 25 2021
 
- Privacy Policy
+Privacy Policy
 
 Nighthawk Apps publishes the Nighthawk Wallet app as a Free app. This Service is provided by Nighthawk Apps at no cost and is intended for use as is.
 
@@ -23,11 +23,11 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third party services that may collect information used to identify you:
 
-- [Google Play Services](https://policies.google.com/privacy)
+- Android: [Google Play Services](https://policies.google.com/privacy)
 
 ## Log Data
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products App Store/Play Store) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 ## Cookies
 
@@ -62,7 +62,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-06-16.
+This policy is effective as of 2021-07-25
 
 ## Contact Us
 
