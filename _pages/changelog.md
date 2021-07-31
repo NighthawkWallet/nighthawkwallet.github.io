@@ -4,8 +4,8 @@ title: What's New
 include_in_header: true
 ---
 
-# Nighthawk Wallet Design & Development '21
-## Updated July 25, 2021
+# Nighthawk Wallet Design & Development'21
+## Updated July 31, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
