@@ -11,7 +11,7 @@ include_in_header: true
 --- | --- | ---
 |Auto-shielding (receive funds on T-addrs and send to Z-addrs) | 75% | Nighthawk iOS is live with Manual Shielding for Transparent funds & Nighthawk Android is live with Auto-Shielding for every 1 ZEC received in T-address |
 |ZIP-321 Add Payment URI support + Deep Link integration | Planned for Milestone 2 | URI support and Deep Link integration to be compatible with ZecPages is planned |
-|ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 2 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
+|ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 3 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
 |Publish Nighthawk Wallet on the F-Droid Store | 50% | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
 |New User onboarding & tutorial | Planned for Milestone 3 | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | 50% | Available on Android |
