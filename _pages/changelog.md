@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development'21
-## Updated July 31, 2021
+## Updated August 6, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,11 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.22 (2021-08-06)**
+- Upgrade SDK & dependencies.
+- Auto-Shielding improvements & UI fixes.
+- Add fastlane setup.
 
 ## **Version 1.0.21 (2021-07-25)**
 - New: Export Wallet Seed Words to a Password Protected PDF.
