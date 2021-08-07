@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development'21
-## Updated August 6, 2021
+## Updated August 7, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.23 (2021-08-07)**
+- Fix scan error.
+- Fix fastlane setup.
 
 ## **Version 1.0.22 (2021-08-06)**
 - Upgrade SDK & dependencies.
