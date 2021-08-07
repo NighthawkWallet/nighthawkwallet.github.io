@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development'21
-## Updated August 7, 2021
+## Updated August 8, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,9 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.24 (2021-08-08)**
+- NEW: Set up Pin code and Face/Touch ID to access the wallet.
 
 ## **Version 1.0.23 (2021-08-07)**
 - Fix scan error.
