@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development'21
-## Updated August 8, 2021
+## Updated August 10, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.25 (2021-08-10)**
+- Fix error messaging when sending funds.
+- Upgrade Zcash SDK & dependencies.
 
 ## **Version 1.0.24 (2021-08-08)**
 - NEW: Set up Pin code and Face/Touch ID to access the wallet.
