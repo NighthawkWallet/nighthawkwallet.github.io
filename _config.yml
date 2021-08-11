@@ -34,12 +34,16 @@ features                                  :
     description                           : Fast and confidential with low fees — built for Internet and Mobile transactions
     fontawesome_icon_name                 : magic
 
-  - title                                 : Choose Privacy-by-Default
+  - title                                 : Shielded by Default
+    description                           : Auto-shielding automatically moves funds from a transparent Zcash address to the latest shielded ZEC pool!
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Privacy Preserving
     description                           : Nighthawk is a Z-address native wallet, funds can be sent out via your Shielded Address only.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Auto-Shielding technology
-    description                           : Receive Zcash on T-address and Automatically Shield your ZEC for spending with Nighthawk!
+  - title                                 : Powered by ECC/Zcash SDKs
+    description                           : ECC supports Zcash through research and development, engineering, partnerships and regulatory efforts.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Nighthawk is a light-wallet

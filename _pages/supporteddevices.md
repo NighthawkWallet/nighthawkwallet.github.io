@@ -6,7 +6,6 @@ include_in_header: true
 
 |# iOS 14.1+|# Android 6.0+|
 | --- | --- |
-|## Recommended|## Recommended|
 |- iPhone 12 (iOS 14.6)|- Google Pixel 4 (Android 11.0.0)|
 |- iPhone 12 Pro (iOS 14.6)|- Google Pixel 4 XL (Android 11.0.0)|
 |- iPhone 12 Pro Max(iOS 14.6)|- Google Pixel 3a (Android 11.0.0)|
