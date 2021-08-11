@@ -46,7 +46,7 @@ features                                  :
     description                           : Using Nighthawk requires trust in the lightwalletd server(that stores the Zcash blockchain) to display accurate transaction information.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Nighthawk is a non-custodial wallet for Zcash
+  - title                                 : Self-custdy wallet for Zcash
     description                           : You have sole responsibility over their funds stored on Nighthawk. Please immediately and securely backup the seed words upon creating a wallet.
     fontawesome_icon_name                 : star
 
