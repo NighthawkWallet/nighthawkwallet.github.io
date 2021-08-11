@@ -71,7 +71,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#7aa3f3"
+link_color                                : "#2e90e9"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -80,7 +80,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#413e55"
 
-feature_icons_foreground_color            : "#7aa3f3"
+feature_icons_foreground_color            : "#2e90e9"
 feature_icons_background_color            : "#a09faa"
 
 social_icons_foreground_color             : "#413e55"
