@@ -50,7 +50,7 @@ features                                  :
     description                           : You have sole responsibility over their funds stored on Nighthawk. Please immediately and securely backup the seed words upon creating a wallet.
     fontawesome_icon_name                 : star
 
-  - title                                 : Custom lightwalletd server in Android
+  - title                                 : Set up custom lightwalletd server
     description                           : You can change the default lightwalletd server on Android!
     fontawesome_icon_name                 : adjust
 
@@ -59,34 +59,34 @@ features                                  :
     fontawesome_icon_name                 : info-circle
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#110e2b"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#413e55"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#7aa3f3"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_text_color                        : "#a09faa"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#7aa3f3"
+feature_icons_background_color            : "#e7e7ea"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#a09faa"
+social_icons_background_color             : "#e7e7ea"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#a09faa"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
