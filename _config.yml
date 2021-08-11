@@ -12,7 +12,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Nighthawk is a Shielded wallet for Zcash with optional support for T-address & Auto-Shielding technology.
+app_description                           : Shielded ZEC in your pocket.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,11 +35,11 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Choose Privacy by Default with Nighthawk
-    description                           : Nighthawk is a Z-address native wallet for preserving Privacy, funds can be sent out via your Shielded Address only.
+    description                           : Nighthawk is a Z-address native wallet, funds can be sent out via your Shielded Address only.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Nighthawk is powered by ECC reference mobile wallets
-    description                           : ECC supports Zcash through research and development, engineering, partnerships and regulatory efforts.
+  - title                                 : Auto-Shielding technology
+    description                           : Receive Zcash on T-address and Automatically Shield your ZEC for spending with Nighthawk!
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Nighthawk is a light-wallet
