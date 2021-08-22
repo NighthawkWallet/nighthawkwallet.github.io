@@ -6,7 +6,7 @@ ios_app_id                                : 1524708337                          
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-fdroid_link                               : https://f-droid.org/en/packages/com.nighthawkapps.wallet.android/                                          
+fdroid_link                               : https://f-droid.org/en/packages/com.nighthawkapps.wallet.android/                                        
 playstore_link                            : https://play.google.com/store/apps/details?id=com.nighthawkapps.wallet.android
 presskit_download_link                    : https://www.nighthawkwallet.com/assets/presskit.zip
 
