@@ -5,13 +5,13 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development'21
-## Updated August 21, 2021
+## Updated September 5, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
 |Auto-shielding (receive funds on T-addrs and send to Z-addrs) | 75% | Nighthawk iOS is live with Manual Shielding for Transparent funds & Nighthawk Android is live with Auto-Shielding for every 1 ZEC received in T-address |
 |ZIP-321 Add Payment URI support + Deep Link integration | 50% | QR Scan support and Deep Link URI integration to be compatible with ZecPages is available for Android |
-|ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 2 & 3 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
+|ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 3 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
 |Publish Nighthawk Wallet on the F-Droid Store | Done | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
 |New User onboarding & tutorial | Planned for Milestone 3 | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | 50% | Available on Android |
@@ -27,11 +27,16 @@ include_in_header: true
 |Add exchange support (optional)  | 5% | Evaluated integration with MoonPay & Transak(limited to T-addresses), and looking forward for Zcash Thorchain Integration for Native Swap integration within Nightawk https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | Planned for Milestone 3 | https://github.com/zcash-hackworks/we-accept-zcash-ios |
 |UX Group Study | Planned October 2021 | Design Phase will begin following NU5 |
-|Redesign App Theme and elements | 5% | Logo updated, Day/Night theme planned in Milestone 2 |
+|Redesign App Theme and elements | Milestone 3 | Logo updated, Design Sprint planned in October '21 |
 
 <br>
 
 # Changelog
+
+## **Version 1.0.27 (2021-09-05)**
+- Improve Auto-Shielding.
+- Fix test-net build variants.
+- Upgrade dependencies to target Android 12.
 
 ## **Version 1.0.26 (2021-08-21)**
 - NEW: Scan QR codes support on ZecPages.com
