@@ -5,17 +5,17 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Updated September 5, 2021
+## Updated September 19, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
 |Auto-shielding (receive funds on T-addrs and send to Z-addrs) | 75% | Nighthawk iOS is live with Manual Shielding for Transparent funds & Nighthawk Android is live with Auto-Shielding for every 1 ZEC received in T-address |
 |ZIP-321 Add Payment URI support + Deep Link integration | 50% | QR Scan support and Deep Link URI integration to be compatible with ZecPages is available for Android |
-|ZIP-316 NU5 support + Unified Addresses | Planned for Milestone 3 | Waiting on implementation in zcashd test-net https://github.com/zcash/zips/blob/master/zip-0316.rst |
+|ZIP-316 NU5 support + Unified Addresses | Milestone 3 with Q1 launch | https://github.com/zcash/zips/blob/master/zip-0316.rst |
 |Publish Nighthawk Wallet on the F-Droid Store | Done | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
 |New User onboarding & tutorial | Planned for Milestone 3 | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | 50% | Available on Android |
-|Support language translations for top 10 languages | 10% | Evaluated several language translation services, Planned Milestone 2 https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/28 |
+|Support language translations for top 10 languages | 10% | Evaluated several language translation services, Planned Milestone 3 https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/28 |
 |Resolve 0 balance bug on Android | Done | https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/27 |
 |Add option to Rescan wallet to debug issues | Done | Rescan option added under Profile for easy debugging of issues https://github.com/zcash/zcash-android-wallet/issues/223 |
 |View USD value of ZEC balance  | 50% | Initial Zcash balance polling via proxy server querying Gemini Exchange on a per minute basis was completed. An updated integration to get the ZEC/USD price via lightwalletd service is being developed. https://github.com/zcash/zcash-android-wallet/issues/231 |
@@ -32,6 +32,11 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.28 (2021-09-19)**
+- Improve Auto-Shielding.
+- Decode memo field when scanning URIs.
+- Upgrade dependencies.
 
 ## **Version 1.0.27 (2021-09-05)**
 - Improve Auto-Shielding.
