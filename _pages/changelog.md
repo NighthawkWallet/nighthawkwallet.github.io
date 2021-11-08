@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Updated October 27, 2021
+## Updated November 8, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -25,13 +25,18 @@ include_in_header: true
 |Add in-app message to notify users of any known issues with the app or the network | Done |  Updated Banner with Network & Auto-shielding statushttps://github.com/nighthawk-apps/nighthawk-wallet-android/issues/31|
 |Integrate Flexa Spend SDK | 5% | Shared Nighthawk's requirements (to not initialize the library till the user opts in) with Flexa team, waiting on the availability of the release to start this work (target Milestone 3) https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
 |Add exchange support (optional)  | 50% | Added MoonPay support in Android and plan forward for Zcash Thorchain Integration for Native Swap integration within Nightawk https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
-|Finish & Publish "We Accept Zcash" on App Store (optional)  | Planned for Milestone 3 | https://github.com/zcash-hackworks/we-accept-zcash-ios |
-|UX Group Study | Planned October 2021 | Design Phase will begin following NU5 |
-|Redesign App Theme and elements | Milestone 3 | Logo updated, Design Sprint planned in October '21 |
+|Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
+|UX Group Study | November 2021 | Design feedback sessions on Nighthawk Android to study areas to improve upon |
+|Redesign App Theme and elements | Milestone 3 | Logo updated, Design Sprint Nov-Jan '22 |
 
 <br>
 
 # Changelog
+
+## **Version 1.0.30 (2021-11-08)**
+- Long tap on transaction under Wallet History now copies tx. id to clipboard.
+- Fix char count when typing memo.
+- Upgrade dependencies.
 
 ## **Version 1.0.29 (2021-10-27)**
 - Add support to Buy ZEC via MoonPay.
