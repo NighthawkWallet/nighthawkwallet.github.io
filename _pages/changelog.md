@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Updated November 8, 2021
+## Updated November 21, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.31 (2021-11-21)**
+- Add support to swap coins via StealthEx.io
+- Upgrade dependencies and PDF export support library.
 
 ## **Version 1.0.30 (2021-11-08)**
 - Long tap on transaction under Wallet History now copies tx. id to clipboard.
