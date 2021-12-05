@@ -71,13 +71,13 @@ features                                  :
     description                           : Set a 6 digit pin and even enable Face Id/Touch Id to open the wallet.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Export Seed Words to PDF (Android)
-    description                           : Generate a password protected PDF with the seed words for your wallet for backing up on a secure platform of your choice.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
   - title                                 : Need Help?
     description                           : Connect with us via Twitter, z2z.to/NighthawkWallet or Protonmail.
     fontawesome_icon_name                 : info-circle
+
+  - title                                 : Export Seed Words to PDF (Android)
+    description                           : Generate a password protected PDF with the seed words for your wallet for backing up on a secure platform of your choice.
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
 # Theme Settings
 topbar_color                              : "#110e2b"
