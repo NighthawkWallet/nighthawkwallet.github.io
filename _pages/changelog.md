@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Updated November 21, 2021
+## Updated December 4, 2021
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -26,12 +26,16 @@ include_in_header: true
 |Integrate Flexa Spend SDK | 5% | Shared Nighthawk's requirements (to not initialize the library till the user opts in) with Flexa team, waiting on the availability of the release to start this work (target Milestone 3) https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
 |Add exchange support (optional)  | 50% | Added MoonPay support in Android and plan forward for Zcash Thorchain Integration for Native Swap integration within Nightawk https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
-|UX Group Study | November 2021 | Design feedback sessions on Nighthawk Android to study areas to improve upon |
-|Redesign App Theme and elements | Milestone 3 | Logo updated, Design Sprint Nov-Jan '22 |
+|UX Group Study | December 2021 | Design feedback sessions on Nighthawk Android to study areas to improve upon |
+|Redesign App Theme and elements | In-progress | Logo updated, Design Sprint Nov-Feb '22 |
 
 <br>
 
 # Changelog
+
+## **Version 1.0.32 (2021-12-04)**
+- Fix tx confirmation count.
+- Update checkpoints, Zcash SDK & dependencies.
 
 ## **Version 1.0.31 (2021-11-21)**
 - Add support to swap coins via StealthEx.io
