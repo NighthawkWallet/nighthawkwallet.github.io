@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Last Updated January 1, 2022
+## Last Updated February 2, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.33 (2022-02-02)**
+- Remove affiliate links.
+- Update checkpoints & dependencies.
 
 ## **Version 1.0.32 (2021-12-04)**
 - Fix tx confirmation count.
