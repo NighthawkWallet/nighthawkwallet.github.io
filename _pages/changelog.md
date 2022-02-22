@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development '21
-## Last Updated February 2, 2022
+## Last Updated February 22, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,9 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.34 (2022-02-22)**
+- Update checkpoint, dependencies & Zcash SDK.
 
 ## **Version 1.0.33 (2022-02-02)**
 - Remove affiliate links.
