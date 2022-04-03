@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated February 22, 2022
+## Last Updated April 2, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -20,18 +20,22 @@ include_in_header: true
 |Add option to Rescan wallet to debug issues | Done | Rescan option added under Profile for easy debugging of issues https://github.com/zcash/zcash-android-wallet/issues/223 |
 |View USD value of ZEC balance  | 50% | Initial Zcash balance polling via proxy server querying Gemini Exchange on a per minute basis was completed. An updated integration to get the ZEC/USD price via lightwalletd service is being developed. https://github.com/zcash/zcash-android-wallet/issues/231 |
 |Update Transaction Details Screen  | Done | https://github.com/zcash/zcash-android-wallet/issues/239 |
-|Refactor Send Transaction flow on Android  | Planned for NU5 upgrade | Support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
+|Refactor Send Transaction flow on Android | Planned for NU5 upgrade with Halo Arc SDK | Support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
 |Accessibility fixes on iOS | Done | Fixed device Home Screen issue https://github.com/zcash/zcash-ios-wallet/issues/252 |
 |Add in-app message to notify users of any known issues with the app or the network | Done |  Updated Banner with Network & Auto-shielding statushttps://github.com/nighthawk-apps/nighthawk-wallet-android/issues/31|
-|Integrate Flexa Spend SDK | 5% | Shared Nighthawk's requirements (to not initialize the library till the user opts in) with Flexa team, waiting on the availability of the release to start this work https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
-|Add exchange support (optional)  | 50% | Added MoonPay support in Android and plan forward for Zcash Thorchain Integration for Native Swap integration within Nightawk https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
+|Integrate Flexa Spend SDK | 5% |  Waiting on the availability of Flexa SDK to start the integration. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
+|Add exchange support (optional)  | Done | Added MoonPay support. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
 |UX Group Study | In-progress | Design feedback sessions on Nighthawk Android to study areas to improve upon |
-|Redesign App Theme and elements | In-progress | Logo updated, Design Sprint Nov-Feb '22 |
+|Redesign App Theme and elements | In-progress | Logo updated, Design Sprint Nov-Apr '22 |
 
 <br>
 
 # Changelog
+
+## **Version 1.0.35 (2022-04-02)**
+- Update checkpoints & dependencies.
+- Migrate to PdfBox lib.
 
 ## **Version 1.0.34 (2022-02-22)**
 - Update checkpoint, dependencies & Zcash SDK.
