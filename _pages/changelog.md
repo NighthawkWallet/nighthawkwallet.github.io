@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated April 2, 2022
+## Last Updated April 24, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 1.0.35 (2022-04-24)**
+- Update checkpoints & dependencies.
+- Perform rescan on retry when block processor fails.
 
 ## **Version 1.0.35 (2022-04-02)**
 - Update checkpoints & dependencies.
