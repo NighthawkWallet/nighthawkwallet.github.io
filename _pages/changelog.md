@@ -33,7 +33,7 @@ include_in_header: true
 
 # Changelog
 
-## **Version 1.0.35 (2022-04-24)**
+## **Version 1.0.36 (2022-04-24)**
 - Update checkpoints & dependencies.
 - Perform rescan on retry when block processor fails.
 
