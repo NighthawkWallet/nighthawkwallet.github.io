@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated June 16, 2022
+## Last Updated June 20, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -15,7 +15,7 @@ include_in_header: true
 |New User onboarding & tutorial | In-progress | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | Available on Android | With an option to export seed words to PDF |
 |Support language translations for top 10 languages | In-progress | Evaluated several language translation services https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/28 |
-|View USD value of ZEC balance  | Available on Android | Initial Zcash balance polling via proxy server querying Gemini Exchange on a per minute basis was completed. An updated integration to get the ZEC/USD price via lightwalletd service is being developed. https://github.com/zcash/zcash-android-wallet/issues/231 |
+|View USD value of ZEC balance  | Available on Android | https://github.com/zcash/zcash-android-wallet/issues/231 |
 |Integrate Flexa Spend SDK | Waiting for SDK |  Waiting on the availability of Flexa SDK to start the integration. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
 |UX Group Study | In-progress | Design feedback sessions on Nighthawk Android to study areas to improve upon |
@@ -33,7 +33,11 @@ include_in_header: true
 
 # Changelog
 
-## **Version 2.0.0 BETA (2022-06-12)**
+## **Version 2.0.01 Beta (2022-06-17)**
+- Bugfixes.
+- Help us test and provide feedback via email or Twitter DM.
+
+## **Version 2.0.0 Beta (2022-06-12)**
 - We've updated the Nighthawk Wallet Design!
 
 ---
