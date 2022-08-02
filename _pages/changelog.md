@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated June 20, 2022
+## Last Updated August 1, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -14,7 +14,7 @@ include_in_header: true
 |Refactor Send Transaction flow on Android | New design implementation is complete | Planned for NU5 upgrade with Halo Arc SDK with support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
 |New User onboarding & tutorial | In-progress | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | Available on Android | With an option to export seed words to PDF |
-|Support language translations for top 10 languages | In-progress | Evaluated several language translation services https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/28 |
+|Support language translations for top 10 languages | In-progress | Started crowd-sourced translations effort via Crowdin https://crowdin.com/project/nighthawk-wallet |
 |View USD value of ZEC balance  | Available on Android | https://github.com/zcash/zcash-android-wallet/issues/231 |
 |Integrate Flexa Spend SDK | Waiting for SDK |  Waiting on the availability of Flexa SDK to start the integration. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
 |Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 2.0.02 Beta (2022-06-29)**
+- Bugfixes.
+- Upgrade SDK & dependencies.
 
 ## **Version 2.0.01 Beta (2022-06-17)**
 - Bugfixes.
