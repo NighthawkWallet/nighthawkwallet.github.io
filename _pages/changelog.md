@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated August 1, 2022
+## Last Updated August 9, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,13 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **Version 2.0.03 Beta (2022-08-01)**
+- Integrate Unstoppable Domain Service.
+- Add language translations for Arabic, Spanish, Russian & Ukrainian!
+- Switch to using AboutLibraries for OSS License list.
+- Adopt type-safe models Zatoshi & WalletBalance.
+- Upgrade SDK & dependencies.
 
 ## **Version 2.0.02 Beta (2022-06-29)**
 - Bugfixes.

@@ -67,8 +67,8 @@ features                                  :
     description                           : Swap between several supported crypto-currencies straight to your Z-address or T-address. KYC, Terms & Conditions apply per service providers.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : PIN protection (Android)
-    description                           : Set a 6 digit pin and even enable Face Id/Touch Id to open the wallet.
+  - title                                 : Unstoppable Domains Support
+    description                           : No more worrying about sending ZEC to the wrong address, simply enable UNS support under Settings > External Services and send ZEC to the recipient's UNS domain!
     fontawesome_icon_name                 : mobile
 
   - title                                 : Need Help?
