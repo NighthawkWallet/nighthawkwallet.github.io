@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Nighthawk Wallet Design & Development Plan
-## Last Updated August 31, 2022
+## Last Updated October 24, 2022
 
 | Feature/Issue  | % Complete | Status |
 --- | --- | ---
@@ -32,6 +32,10 @@ include_in_header: true
 <br>
 
 # Changelog
+
+## **VVersion 2.0.05 BETA (2022-10-24)*
+- Transition Unstoppable Domain Name Service endpoint from Alchemy to a self-hosted.
+- Upgrade SDK & dependencies.
 
 ## **Version 2.0.04 Beta (2022-08-31)**
 - Add translations for Korean, Spanish & Ukrainian!
