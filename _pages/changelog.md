@@ -12,7 +12,7 @@ include_in_header: true
 |ZIP-321 Add Payment URI support + Deep Link integration | Available on Android | QR Scan support and Deep Link URI integration to be compatible with ZecPages is available for Android |
 |ZIP-316 NU5 support + Unified Addresses | NU5 Support is Done | UAs & Orchard pool transactions is WIP https://github.com/zcash/zips/blob/master/zip-0316.rst |
 |Refactor Send Transaction flow on Android | New design implementation is complete | Planned for NU5 upgrade with Halo Arc SDK with support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
-|New User onboarding & tutorial | In-progress | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
+|New User onboarding & tutorial | Design Ready | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
 |Optional backup of seed words | Available on Android | With an option to export seed words to PDF |
 |Support language translations for top 10 languages | In-progress | Started crowd-sourced translations effort via Crowdin https://crowdin.com/project/nighthawk-wallet |
 |View USD value of ZEC balance  | Available on Android | https://github.com/zcash/zcash-android-wallet/issues/231 |
@@ -33,7 +33,7 @@ include_in_header: true
 
 # Changelog
 
-## **VVersion 2.0.05 BETA (2022-10-24)*
+## **Version 2.0.05 BETA (2022-10-24)*
 - Transition Unstoppable Domain Name Service endpoint from Alchemy to a self-hosted.
 - Upgrade SDK & dependencies.
 
