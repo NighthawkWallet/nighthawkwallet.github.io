@@ -59,10 +59,6 @@ features                                  :
     description                           : You can change the default lightwalletd server on Android!
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Buy ZEC via MoonPay (Android)
-    description                           : Customers that are not US residents can purchase Zcash (ZEC) by registering with MoonPay. KYC, Terms & Conditions apply per MoonPay policies.
-    fontawesome_icon_name                 : mobile
-
   - title                                 : Swap ZEC via SideShift.ai & StealthEx.io
     description                           : Swap between several supported crypto-currencies straight to your Z-address or T-address. KYC, Terms & Conditions apply per service providers.
     fontawesome_icon_name                 : mobile

@@ -33,7 +33,7 @@ include_in_header: true
 
 # Changelog
 
-## **Version 2.0.05 BETA (2022-10-24)*
+## **Version 2.0.05 BETA (2022-10-24)**
 - Transition Unstoppable Domain Name Service endpoint from Alchemy to a self-hosted.
 - Upgrade SDK & dependencies.
 
