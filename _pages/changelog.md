@@ -17,9 +17,9 @@ include_in_header: true
 |Support language translations for top 10 languages | In-progress | Started crowd-sourced translations effort via Crowdin https://crowdin.com/project/nighthawk-wallet |
 |View USD value of ZEC balance  | Available on Android | https://github.com/zcash/zcash-android-wallet/issues/231 |
 |Integrate Flexa Spend SDK | Waiting for SDK |  Waiting on the availability of Flexa SDK to start the integration. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
-|Finish & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
-|UX Group Study | In-progress | Design feedback sessions on Nighthawk Android to study areas to improve upon |
-|Redesign App Theme and elements | In-progress | Logo updated, Design Sprint Nov-Apr '22 |
+|Build & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
+|UX Group Study | Done | Design feedback sessions on Nighthawk Android to study areas to improve upon |
+|Redesign App Theme and Elements | Done | Logo updated, Design Sprint Nov-Apr '22 |
 |Publish Nighthawk Wallet on the F-Droid Store | Done | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
 |Auto-shielding (receive funds on T-addrs and send to Z-addrs) | Done | Auto-Shielding is live for funds received in T-address after 10 network confirmations. |
 |Update Transaction Details Screen  | Done | https://github.com/zcash/zcash-android-wallet/issues/239 |
