@@ -6,6 +6,7 @@ include_in_header: true
 
 |iOS 14.1+|Android 6.0+|
 | --- | --- |
+| iPhone 14 (iOS 16.3.2)| Google Pixel 6a, 7 (Android 14+), Samsung Galaxy S23 Pro & S23 Ultra (Android 13.0.0)|
 | iPhone 13 (iOS 15.3)| Samsung Galaxy S22 Pro & S22 Ultra (Android 12.0.0)|
 | iPhone 13 Pro (iOS 15.3)| Samsung Galaxy S20/21 (Android 12.0.0)|
 | iPhone 13 Pro Max(iOS 15.3)| Google Pixel 6 (Android 12.0.0)|
