@@ -56,8 +56,7 @@
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
 	</div>
-	{% if site.your_name %}
-		<p class="footerText">© 2020-2023. Crafted with ❤️ by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}
-		</a>
-	{% endif %}
+{% if site.your_name %}
+    <p class="footerText">© 2020-2023. Crafted with ❤️ by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}</p>
+{% endif %}
 </footer>
