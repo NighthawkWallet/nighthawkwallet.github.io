@@ -17,6 +17,10 @@
 
 .headerBackground {
 	height: 115px;
+	background: url($header-top-image);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
 	background-color: rgba($header-color, $header-transparency);
 }
 
