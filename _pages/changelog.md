@@ -4,32 +4,8 @@ title: What's New
 include_in_header: true
 ---
 
-# Nighthawk Wallet Design & Development Plan
-## Last Updated October 24, 2022
-
-| Feature/Issue  | % Complete | Status |
---- | --- | ---
-|ZIP-321 Add Payment URI support + Deep Link integration | Available on Android | QR Scan support and Deep Link URI integration to be compatible with ZecPages is available for Android |
-|ZIP-316 NU5 support + Unified Addresses | NU5 Support is Done | UAs & Orchard pool transactions is WIP https://github.com/zcash/zips/blob/master/zip-0316.rst |
-|Refactor Send Transaction flow on Android | New design implementation is complete | Planned for NU5 upgrade with Halo Arc SDK with support for Unified Addresses + https://github.com/zcash/zcash-android-wallet/issues/245 |
-|New User onboarding & tutorial | Design Ready | This task will be undertaken after the UX design changes along with Unified Addresses is completed https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/30 |
-|Optional backup of seed words | Available on Android | With an option to export seed words to PDF |
-|Support language translations for top 10 languages | In-progress | Started crowd-sourced translations effort via Crowdin https://crowdin.com/project/nighthawk-wallet |
-|View USD value of ZEC balance  | Available on Android | https://github.com/zcash/zcash-android-wallet/issues/231 |
-|Integrate Flexa Spend SDK | Waiting for SDK |  Waiting on the availability of Flexa SDK to start the integration. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/32 |
-|Build & Publish "We Accept Zcash" on App Store (optional)  | TBD | Depending on bandwidth & SDK support for Unified Address https://github.com/zcash-hackworks/we-accept-zcash-ios |
-|UX Group Study | Done | Design feedback sessions on Nighthawk Android to study areas to improve upon |
-|Redesign App Theme and Elements | Done | Logo updated, Design Sprint Nov-Apr '22 |
-|Publish Nighthawk Wallet on the F-Droid Store | Done | Aim to have approval for "No Anti-features" flag, removed un-necessary Google dependencies, work in progress towards integrating builds within Fdroid Server after successful continuos integration with Bitrise https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/15 |
-|Auto-shielding (receive funds on T-addrs and send to Z-addrs) | Done | Auto-Shielding is live for funds received in T-address after 10 network confirmations. |
-|Update Transaction Details Screen  | Done | https://github.com/zcash/zcash-android-wallet/issues/239 |
-|Add exchange support (optional)  | Done | Added MoonPay support. https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/33 |
-|Resolve 0 balance bug on Android | Done | https://github.com/nighthawk-apps/nighthawk-wallet-android/issues/27 |
-|Add option to Rescan wallet to debug issues | Done | Rescan option added under Profile for easy debugging of issues https://github.com/zcash/zcash-android-wallet/issues/223 |
-|Accessibility fixes on iOS | Done | Fixed device Home Screen issue https://github.com/zcash/zcash-ios-wallet/issues/252 |
-|Add in-app message to notify users of any known issues with the app or the network | Done |  Updated Banner with Network & Auto-shielding statushttps://github.com/nighthawk-apps/nighthawk-wallet-android/issues/31|
-
-<br>
+# Nighthawk Wallet 2023 Roadmap
+## At Nighthawk Apps, we're hard at work revamping Nighthawk Wallet for a super easy to use Shielded-by-Default experience.
 
 # Changelog
 

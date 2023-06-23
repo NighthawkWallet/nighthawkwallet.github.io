@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 ## Disclosure Policy
-Do not disclose any bug or vulnerability on public forums, message boards, mailing lists, etc. prior to responsibly disclosing to Nighthawk Wallet and giving sufficient time for the issue to be fixed and deployed. Do not execute on or exploit any vulnerability.
+Do not disclose any bug or vulnerability on public forums, message boards, mailing lists, etc. prior to responsibly disclosing to Nighthawk Apps and giving sufficient time for the issue to be fixed and deployed. Do not execute on or exploit any vulnerability.
 
 ### Reporting a Bug or Vulnerability
 When reporting a bug or vulnerability, please provide the following to nighthawkwallet@protonmail.com
@@ -23,10 +23,9 @@ We highly encourage all disclosures to be encrypted to prevent interception and 
 There are some known areas for improvement:
 
 - This app depends upon related libraries that it uses. There may be bugs.
-- This wallet currently only supports transacting between shielded addresses, which makes it incompatible with wallets that do not support sending to shielded addresses. 
-- Traffic analysis, like in other cryptocurrency wallets, can leak some privacy of the user.
-- The wallet requires a trust in the lighthttpd server to display accurate transaction information. 
-- This app has been developed and run exclusively on `mainnet` it might not work on `testnet`.  
+- The wallet only supports transactions between shielded Z-addresses, rendering it incompatible with wallets that cannot send to supported shielded pools.
+- Similar to other cryptocurrency wallets, traffic analysis can potentially compromise user privacy.
+- The wallet relies on the lightwalletd server to provide accurate transaction information, necessitating trust in the server. 
+- This app has been developed and run exclusively on `mainnet` and may not function correctly on `testnet`.  
 
-See the [Wallet App Threat Model](https://zcash.readthedocs.io/en/latest/rtd_pages/wallet_threat_model.html)
-for more information about the security and privacy limitations of the wallet.
+For more information regarding the security and privacy limitations of the wallet, please refer to the [Wallet App Threat Model](https://zcash.readthedocs.io/en/latest/rtd_pages/wallet_threat_model.html).
