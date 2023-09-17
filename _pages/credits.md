@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Credits
-include_in_header: false
+include_in_header: true
 ---
 
 ## Gratitude to our friends for helping translate the app
 
-## **App Translations**
+## **App Translators**
 - Edickson Gonzalez
 - zulamit
 - Zttt
