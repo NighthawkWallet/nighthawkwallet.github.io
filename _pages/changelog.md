@@ -9,6 +9,14 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.05 Beta (2023-10)**
+- Android Version is public beta.
+
+## **Version 2.0.0 Build 6 (2023-10)**
+- iOS Version is live with TestFlight.
+
+---
+
 ## **Version 2.0.05 BETA (2022-10-24)**
 - Transition Unstoppable Domain Name Service endpoint from Alchemy to a self-hosted.
 - Upgrade SDK & dependencies.
