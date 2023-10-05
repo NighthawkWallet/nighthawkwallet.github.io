@@ -43,8 +43,8 @@ features                                  :
     description                           : Nighthawk wallet ensures funds can only be sent via your Shielded Address.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Powered by ECC/Zcash SDKs
-    description                           : ECC supports Zcash through research, development, partnerships, and regulatory efforts.
+  - title                                 : Powered by Zcash Mobile SDKs
+    description                           : Standardized SDKs with accurate protocol specification for a seamless experience.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Nighthawk is a light-wallet
@@ -67,12 +67,12 @@ features                                  :
     description                           : Customize the default lightwalletd server on Android.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Export Seed Words to PDF (Android)
+  - title                                 : Backup Seed Words to PDF
     description                           : Securely generate a password-protected PDF with wallet seed words.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Need Help?
-    description                           : Connect with us via Twitter or Protonmail.
+    description                           : Connect with us via X or Protonmail.
     fontawesome_icon_name                 : info-circle
 
 # Theme Settings
