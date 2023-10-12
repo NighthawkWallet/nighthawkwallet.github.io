@@ -9,7 +9,7 @@ include_in_header: true
 
 # Changelog
 
-## **Version 2.2.05 Beta (2023-10)**
+## **Version 2.2.06 Beta (2023-10)**
 - Android Version is public beta.
 
 ## **Version 2.0.0 Build 6 (2023-10)**
