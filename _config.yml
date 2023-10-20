@@ -36,7 +36,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Shielded by Default
-    description                           : Auto-shielding moves funds from transparent Zcash addresses to the latest shielded ZEC pool automatically.
+    description                           : Auto-shielding moves funds from transparent Zcash addresses to the shielded pool!
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy Preserving
@@ -60,12 +60,8 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Unstoppable Domains Support
-    description                           : Enable UNS support under Settings > External Services for worry-free ZEC transactions.
+    description                           : Opt-in UNS support under Settings > External Services for worry-free ZEC transactions.
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Custom lightwalletd server
-    description                           : Customize the default lightwalletd server on Android.
-    fontawesome_icon_name                 : adjust
 
   - title                                 : Backup Seed Words to PDF
     description                           : Securely generate a password-protected PDF with wallet seed words.

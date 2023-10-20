@@ -4,15 +4,13 @@ title: What's New
 include_in_header: true
 ---
 
-# Nighthawk Wallet 2023 Roadmap
-## At Nighthawk Apps, we're hard at work revamping Nighthawk Wallet for a super easy to use Shielded-by-Default experience.
-
 # Changelog
 
-## **Version 2.2.06 Beta (2023-10)**
-- Android Version is public beta.
+## **Version 2.2.07 (2023-10-19)**
+- Android version is live on Google Play Store!
+- F-Droid version is under review.
 
-## **Version 2.0.0 Build 6 (2023-10)**
+## **Version 2.0.0 Build 8 (2023-10)**
 - iOS Version is live with TestFlight.
 
 ---
