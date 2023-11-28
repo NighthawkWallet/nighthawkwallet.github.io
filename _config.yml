@@ -59,6 +59,10 @@ features                                  :
     description                           : Easily exchange ZEC for supported cryptocurrencies. KYC, Terms & Conditions apply.
     fontawesome_icon_name                 : mobile
 
+  - title                                 : PIN protection
+    description                           : Set a 6 digit pin and even enable Face Id/Touch Id to open the wallet.
+    fontawesome_icon_name                 : mobile
+
   - title                                 : Unstoppable Domains Support
     description                           : Opt-in UNS support under Settings > External Services for worry-free ZEC transactions.
     fontawesome_icon_name                 : mobile
