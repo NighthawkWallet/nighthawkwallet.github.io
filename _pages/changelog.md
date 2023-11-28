@@ -6,6 +6,22 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.10 (2023-12-01)**
+- Adopt SDK v2.0.3
+- Improve regional currency handling
+- Update crowd sourced translations
+- Update app logo
+- Fix issues identified in audit, thanks Taylor Hornby!
+
+## **Version 2.2.09 (2023-10-23)**
+- Adopt SDK v2.0.2
+
+## **Version 2.2.08 (2023-10-21)**
+- Remove Crashlytics Dependencies
+- Switch Lightwalletd Server Regions
+- Fast Syncing Wallet: Leveraging the 'Spend Before Sync' feature from the recently launched Zcash Mobile SDK 2.0.1 by ECC
+- Future-Proofed: Strategic UX design decisions and enhancements ensure our code bases are future-proofed for security and compliance
+
 ## **Version 2.2.07 (2023-10-19)**
 - Android version is live on Google Play Store!
 - F-Droid version is under review.

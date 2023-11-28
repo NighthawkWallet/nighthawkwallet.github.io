@@ -43,7 +43,7 @@ features                                  :
     description                           : Nighthawk wallet ensures funds can only be sent via your Shielded Address.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Powered by Zcash Mobile SDKs
+  - title                                 : Utilizes Zcash Mobile SDKs
     description                           : Standardized SDKs with accurate protocol specification for a seamless experience.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
