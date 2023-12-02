@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.11 (2023-12-02)**
+- Fix translations integration
+
 ## **Version 2.2.10 (2023-12-01)**
 - Adopt SDK v2.0.3
 - Improve regional currency handling
