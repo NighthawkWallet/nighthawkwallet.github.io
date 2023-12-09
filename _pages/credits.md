@@ -11,7 +11,7 @@ include_in_header: true
 - zulamit
 - Zttt
 - Saad El Kousari
-- Zcash ru
+- #prozcash
 - Andriy Udalov
 - Pablo J. Gonzalez Mora
 - Abdulaziz AA

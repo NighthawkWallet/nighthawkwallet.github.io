@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.12 (2023-12-09)**
+- Fix translations regression issue
+
 ## **Version 2.2.11 (2023-12-02)**
 - Fix translations integration
 
