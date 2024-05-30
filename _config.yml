@@ -31,19 +31,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Zcash Network
-    description                           : Fast and confidential with low fees — built for the Internet and Mobile transactions.
-    fontawesome_icon_name                 : magic
-
   - title                                 : Shielded by Default
-    description                           : Auto-shielding moves funds from transparent Zcash addresses to the shielded pool!
+    description                           : Auto-shielding moves funds from transparent addresses to the shielded pool!
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy Preserving
     description                           : Nighthawk wallet ensures funds can only be sent via your Shielded Address.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Utilizes Zcash Mobile SDKs
+  - title                                 : Utilizes Native Mobile SDKs
     description                           : Standardized SDKs with accurate protocol specification for a seamless experience.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
@@ -51,7 +47,7 @@ features                                  :
     description                           : Requires trust in the lightwalletd server for displaying accurate transaction information.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Self-custody wallet for Zcash
+  - title                                 : Self-custody wallet
     description                           : Take sole responsibility for your funds on Nighthawk. Securely backup seed words immediately.
     fontawesome_icon_name                 : star
 

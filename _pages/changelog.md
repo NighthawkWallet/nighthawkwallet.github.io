@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.13 (2024-05-29)**
+- Update Zcash SDK to v2.1.1
+- Change server to zec.rocks after lightwalletd.com for Zcash was decommissioned
+
 ## **Version 2.2.12 (2023-12-09)**
 - Fix translations regression issue
 
