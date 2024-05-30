@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.14 (2024-05-30)**
+- Switch main-net block explorer to 3xpl.com and test-net to blockexplorer.one
+
 ## **Version 2.2.13 (2024-05-29)**
 - Update Zcash SDK to v2.1.1
 - Change server to zec.rocks after lightwalletd.com for Zcash was decommissioned
