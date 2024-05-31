@@ -31,8 +31,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Spend with Flexa (coming soon)
-    description                           : Spend your crypto at over 41,336 locations** across the US and Canada. Stay tuned for our official launch date, and start experiencing the convenience of crypto payments near you! 💸✨
+  - title                                 : Spend with Flexa (soon)
+    description                           : Spend your crypto at over 41,336 locations across the US and Canada. 💸✨
     fontawesome_icon_name                 : magic
 
   - title                                 : Shielded by Default
