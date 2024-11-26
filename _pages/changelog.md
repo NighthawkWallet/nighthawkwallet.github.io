@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.2.16 (2024-11-24)**
+- NU6 Support
+
+## **Version 2.2.15 (2024-09-17)**
+- Update ZcashClientKit and prepare for Flexa integration
+- TCA Upgrade: update addresses view to match design using iOS 17 ScrollView API
+- Remove SideShift integration as they dropped ZEC support
+- Fix Memo logic when sending funds to transparent addresses
+
 ## **Version 2.2.14 (2024-05-30)**
 - Switch main-net block explorer to 3xpl.com and test-net to blockexplorer.one
 
