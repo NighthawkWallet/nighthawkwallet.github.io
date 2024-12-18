@@ -13,7 +13,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : assets/android-chrome-192x192.png         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Nighthawk Wallet                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Private Money in your pocket.             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Choose Shielded-by-Default with Nighthawk, an open source, privacy-focussed, self-custody wallet.
+app_description                           : Choose Shielded-by-Default with Nighthawk, an open source, privacy-focused, self-custody wallet.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -31,8 +31,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Spend with Flexa (soon)
-    description                           : Spend your crypto at over 41,336 locations across the US and Canada. 💸✨
+  - title                                 : Spend with Flexa
+    description                           : Spend your crypto at over thousands of locations across the US and Canada 💸✨
     fontawesome_icon_name                 : magic
 
   - title                                 : Shielded by Default

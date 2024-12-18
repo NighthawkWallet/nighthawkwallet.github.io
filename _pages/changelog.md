@@ -6,8 +6,8 @@ include_in_header: true
 
 # Changelog
 
-<!-- ## **Version 2.3.0 (2024-12-12)**
-- Flexa Spend is here! -->
+## **Version 2.3.0 (2024-12-18)**
+- Flexa Spend is here!
 
 ## **Version 2.2.16 (2024-11-24)**
 - NU6 Support
