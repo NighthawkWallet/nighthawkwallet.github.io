@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.3.1 (2024-12-28)**
+- Update to the new & improved Flexa SDK
+
 ## **Version 2.3.0 (2024-12-18)**
 - Flexa Spend is here!
 
