@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 2.3.2 (2024-04-25)**
+- Minor fixes and improvements
+
 ## **Version 2.3.1 (2024-12-28)**
 - Update to the new & improved Flexa SDK
 
