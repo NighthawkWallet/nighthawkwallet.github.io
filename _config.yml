@@ -13,7 +13,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : assets/android-chrome-192x192.png         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Nighthawk Wallet                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Private Money in your pocket.             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Choose Shielded-by-Default with Nighthawk, an open source, privacy-focused, self-custody wallet.
+app_description                           : Nighthawk no longer supports outgoing ZEC transactions, after the recent network upgrade. To access your funds, you will need to import your wallet seed to other dedicated Zcash wallets, such as Zashi or Zingo
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,18 +35,6 @@ features                                  :
     description                           : Spend your crypto at 10,000+ locations across the US ✨
     fontawesome_icon_name                 : magic
 
-  - title                                 : Shielded by Default
-    description                           : Auto-shielding moves funds from transparent addresses to the shielded pool!
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Privacy Preserving
-    description                           : Nighthawk wallet ensures funds can only be sent via your Shielded Address.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Utilizes Native Mobile SDKs
-    description                           : Standardized SDKs with accurate protocol specification for a seamless experience.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
   - title                                 : Nighthawk is a light-wallet
     description                           : Requires trust in the lightwalletd server for displaying accurate transaction information.
     fontawesome_icon_name                 : sync
@@ -54,10 +42,6 @@ features                                  :
   - title                                 : Self-custody wallet
     description                           : Take sole responsibility for your funds on Nighthawk. Securely backup seed words immediately.
     fontawesome_icon_name                 : star
-
-  - title                                 : Swap via StealthEx.io
-    description                           : Easily exchange ZEC for supported cryptocurrencies. KYC, Terms & Conditions apply.
-    fontawesome_icon_name                 : mobile
 
   - title                                 : PIN protection
     description                           : Set a 6 digit pin and even enable Face Id/Touch Id to open the wallet.
@@ -70,10 +54,6 @@ features                                  :
   - title                                 : Backup Seed Words to PDF
     description                           : Securely generate a password-protected PDF with wallet seed words.
     fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Need Help?
-    description                           : Connect with us via X or Protonmail.
-    fontawesome_icon_name                 : info-circle
 
 # Theme Settings
 topbar_color                              : "#110e2b"
