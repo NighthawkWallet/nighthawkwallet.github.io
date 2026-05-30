@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.0.0 (2026-05-29)**
+- Let there be dark.  
+
 ## **Version 2.3.2 (2025-09-29)**
 - Notify users of the end of support for sending ZEC in Nighthawk.  
 
