@@ -13,7 +13,7 @@ presskit_download_link                    : https://www.nighthawkwallet.com/asse
 app_icon                                  : assets/android-chrome-192x192.png         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Nighthawk Wallet                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Nighthawk will soon be running DarkFi     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Borderless Privacy for the masses.
+app_description                           : Where privacy is proven, not promised.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -31,9 +31,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Nighthawk X DarkFi
-    description                           : Fully Private, ZKP halo2 encryption and trustless privacy.
+  - title                                 : Built on DarkFi
+    description                           : Confidential transactions with Halo2 and trustless privacy.
     fontawesome_icon_name                 : sync
+
+  - title                                 : DarkIRC
+    description                           : Censorship-resistant chat with ZKP privacy.
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Self-custody wallet
     description                           : Take sole responsibility for your funds on Nighthawk. Securely backup seed words immediately.
