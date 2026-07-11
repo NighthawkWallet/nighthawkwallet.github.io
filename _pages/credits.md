@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credits
-include_in_header: true
+include_in_header: false
 ---
 
 ## Gratitude to our friends for helping translate the app
