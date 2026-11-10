@@ -31,63 +31,63 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Built on DarkFi
-    description                           : Confidential transactions with Halo2 and trustless privacy.
-    fontawesome_icon_name                 : sync
+  - title                                 : Private by default
+    description                           : Trial decryption finds your notes on this device. The server does not learn which payments are yours. UnifOMR stays off unless you turn it on.
+    fontawesome_icon_name                 : user-secret
 
-  - title                                 : Oblivious Message Retrieval with UnifOMR
-    description                           : Encrypted digest; server does not learn match heights.
-    fontawesome_icon_name                 : sync
+  - title                                 : Nym mixnet
+    description                           : Android and iOS send the wallet, DarkIRC, and the node through Nym. Switch to Tor or a direct connection when you want to.
+    fontawesome_icon_name                 : random
 
   - title                                 : DarkIRC
-    description                           : Censorship-resistant chat with ZKP privacy.
-    fontawesome_icon_name                 : mobile
+    description                           : In-process chat on phone and desktop. Public channels and encrypted direct messages stay on the device.
+    fontawesome_icon_name                 : comments
 
-  - title                                 : Self-custody wallet
-    description                           : Take sole responsibility for your funds on Nighthawk. Securely backup seed words immediately.
-    fontawesome_icon_name                 : star
+  - title                                 : Phone and desktop
+    description                           : The same wallet core on Android, iOS, and desktop. Request a payment, receive, send DRK or a custom token, and open the DAO hub.
+    fontawesome_icon_name                 : mobile-alt
 
-  - title                                 : DAOhub
-    description                           : Interact with privacy preserving smart contracts on the DarkFi network.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Your keys
+    description                           : A 22-word seed, a PIN, and a seed backup. Nighthawk does not hold the funds.
+    fontawesome_icon_name                 : key
 
-  - title                                 : PIN protection
-    description                           : Set a 6 digit pin and even enable Face Id/Touch Id to open the wallet.
-    fontawesome_icon_name                 : mobile
+  - title                                 : An honest sync light
+    description                           : Green only while lightwalletd is current. The wallet says when the served tip has not reached darkfid recently.
+    fontawesome_icon_name                 : eye
 
-  - title                                 : Backup Seed Words to PDF
-    description                           : Securely generate a password-protected PDF with wallet seed words.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : DarkFi money
+    description                           : Confidential DRK transfers, a token picker for assets you hold, and a read-only DAO hub.
+    fontawesome_icon_name                 : coins
 
 # Theme Settings
-topbar_color                              : "#110e2b"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_color                              : "#07090d"
+topbar_transparency                       : 0.72
+topbar_title_color                        : "#f4f1ea"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#413e55"
-cover_overlay_transparency                : 0.8
+cover_image                               : assets/darkfi30.png
+cover_overlay_color                       : "#07090d"
+cover_overlay_transparency                : 0.45
 
-device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#0c1016"
 
-link_color                                : "#2e90e9"
+link_color                                : "#e7a08a"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#f4f1ea"
+app_price_color                           : "#c5ced6"
+app_description_color                     : "#f4f1ea"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#413e55"
+feature_title_color                       : "#f4f1ea"
+feature_text_color                        : "#b7c0c8"
 
-feature_icons_foreground_color            : "#2e90e9"
-feature_icons_background_color            : "#e7e7ea"
+feature_icons_foreground_color            : "#e7a08a"
+feature_icons_background_color            : "#1a212b"
 
-social_icons_foreground_color             : "#413e55"
-social_icons_background_color             : "#e7e7ea"
+social_icons_foreground_color             : "#e7a08a"
+social_icons_background_color             : "#1a212b"
 
-footer_text_color                         : "#a09faa"
+footer_text_color                         : "#8b95a1"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
