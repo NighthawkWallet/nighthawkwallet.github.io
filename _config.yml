@@ -43,6 +43,10 @@ features                                  :
     description                           : In-process chat on phone and desktop. Public channels and encrypted direct messages stay on the device.
     fontawesome_icon_name                 : comments
 
+  - title                                 : Nighthawk Mesh
+    description                           : Nearby phones pass an encrypted EventGraph hop over Bluetooth. Share-internet stays off.
+    fontawesome_icon_name                 : bluetooth-b
+
   - title                                 : Phone and desktop
     description                           : The same wallet core on Android, iOS, and desktop. Request a payment, receive, send DRK or a custom token, and open the DAO hub.
     fontawesome_icon_name                 : mobile-alt
@@ -56,8 +60,12 @@ features                                  :
     fontawesome_icon_name                 : eye
 
   - title                                 : DarkFi money
-    description                           : Confidential DRK transfers, a token picker for assets you hold, and a read-only DAO hub.
+    description                           : Confidential DRK transfers today, plus a read-only DAO hub. Multi-asset balances and stablecoin support are coming.
     fontawesome_icon_name                 : coins
+
+  - title                                 : Dex
+    description                           : The Dex tab is in the app. Trading is coming soon.
+    fontawesome_icon_name                 : exchange-alt
 
 # Theme Settings
 topbar_color                              : "#07090d"
