@@ -17,11 +17,11 @@ include_in_header: true
 - DarkFi pin 44ec78b6e.
 
 ## **Version 3.01.07 (2026-11-07)**
-- Bottom nav is Chat, Wallet, Dex, DAO, Settings.
+- Bottom nav is Chat, Wallet, DEX, DAO, Settings.
 - Wallet actions are Request, Receive, then Send.
 
 ## **Version 3.01.06 (2026-11-07)**
-- DAO hub is its own tab between Dex and Settings.
+- DAO hub is its own tab between DEX and Settings.
 - Receive QR sits above Scan at the standard screen margin.
 
 ## **Version 3.01.05 (2026-11-07)**

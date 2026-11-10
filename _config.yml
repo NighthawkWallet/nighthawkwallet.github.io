@@ -63,8 +63,8 @@ features                                  :
     description                           : Confidential DRK transfers today, plus a read-only DAO hub. Multi-asset balances and stablecoin support are coming.
     fontawesome_icon_name                 : coins
 
-  - title                                 : Dex
-    description                           : The Dex tab is in the app. Trading is coming soon.
+  - title                                 : DEX
+    description                           : The DEX tab is in the app. Trading is coming soon.
     fontawesome_icon_name                 : exchange-alt
 
 # Theme Settings
