@@ -6,6 +6,77 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.01.09 (2026-11-10)**
+- Default sync trial-decrypts notes in parallel on several cores.
+- A synced wallet says when lightwalletd has not reached darkfid recently.
+- Experimental UnifOMR stays off unless you turn it on.
+
+## **Version 3.01.08 (2026-11-09)**
+- Sync progress no longer races the wallet database.
+- Fees prefer change inside the same transaction.
+- DarkFi pin 44ec78b6e.
+
+## **Version 3.01.07 (2026-11-07)**
+- Bottom nav is Chat, Wallet, Dex, DAO, Settings.
+- Wallet actions are Request, Receive, then Send.
+
+## **Version 3.01.06 (2026-11-07)**
+- DAO hub is its own tab between Dex and Settings.
+- Receive QR sits above Scan at the standard screen margin.
+
+## **Version 3.01.05 (2026-11-07)**
+- Production sync reads Money, DAO, and auth-token events from lightwalletd compact blocks.
+- The compact-block cache is encrypted and drops heights after they are scanned.
+
+## **Version 3.01.04 (2026-11-05)**
+- DAO views work for a lightwalletd-only wallet.
+
+## **Version 3.01.03 (2026-11-05)**
+- Request, receive, send, PIN, top-up, and transaction detail drop the extra Nighthawk logo.
+
+## **Version 3.01.02 (2026-11-05)**
+- Seed backup blocks screenshots.
+- Tor Retry restarts Arti cleanly.
+- Nym stays the default network. Continue without Nym is still on the splash.
+
+## **Version 3.01.01 (2026-11-05)**
+- #nighthawk is the default public chat channel.
+- Folded layouts open Wallet and Settings in a second pane.
+- Chat Request and Pay are top-bar icons.
+
+## **Version 3.01.00 (2026-11-05)**
+- Default sync is padded trial decryption. Money notes, token mints, and DAO calls are found without a UnifOMR clue.
+- Experimental UnifOMR stays under Advanced settings.
+- Embedded Tor is Arti 0.48.
+
+## **Version 3.00.027 (2026-11-03)**
+- Cyberpunk is the default theme in light and dark mode.
+- Body text uses DejaVu Sans Mono.
+- Nym keeps the tunnel up when one peer lookup fails.
+
+## **Version 3.00.026 (2026-10-30)**
+- Light and Paper use graphite instead of teal.
+- A send can pay the fee from change inside the transaction.
+
+## **Version 3.00.025 (2026-10-27)**
+- The wallet opens before Nym or Tor finishes connecting.
+- The sync light is green only while lightwalletd is connected.
+- DarkIRC shows messages already stored on the device before peers connect.
+
+## **Version 3.00.022 (2026-10-22)**
+- Trial sync still finds your own change when a payment has no clue.
+
+## **Version 3.00.021 (2026-10-21)**
+- Nym is the default network for the wallet, chat, and the embedded node.
+
+## **Version 3.00.020 (2026-10-20)**
+- Private block fetch returns the real blocks.
+- A partial digest no longer stalls sync, and a reorg rewinds the scan.
+
+## **Version 3.00.019 (2026-10-19)**
+- Paper is the theme when the phone is in light mode. Stealth remains the dark-mode theme.
+- An explicit theme choice in Advanced still wins.
+
 ## **Version 3.0.0 (2026-05-29)**
 - Let there be dark.  
 
