@@ -32,7 +32,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Private by default
-    description                           : Trial decryption finds your notes on this device. The server does not learn which payments are yours. UnifOMR stays off unless you turn it on.
+    description                           : Maintain sovereignty by choosing fully private network, no opt-ins, no public transaction graphs
     fontawesome_icon_name                 : user-secret
 
   - title                                 : Nym mixnet
