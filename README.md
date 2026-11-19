@@ -13,8 +13,6 @@ Designed for GitHub Pages for super easy set up.
 
 📝 Write Privacy Policy as markdown in `privacypolicy.md`
 
-🕒 Keep a changelog in `CHANGELOG.md`
-
 ✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
 
 <img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
@@ -80,16 +78,8 @@ The videos and screenshots must have one of the following resolutions:
 
 
 
-### Step 4: Edit (or remove) Privacy Policy and Changelog
-Your site automatically includes pages for a Privacy Policy and a Changelog. Change the content of these pages by editing the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-In each of the markdown files, you can set the `include_in_header:` value to either `true` or `false`. This determines if the page is included in the top navigation.
-By default, only the Changelog is included in the top navigation. The title of the navigation item can also be edited, by editing the `title:` in each markdown file.
-
-If you need to, you can create additional markdown based pages just by creating an `.md` file like the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-**Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
-You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
+### Step 4: Edit (or remove) Privacy Policy
+Change the Privacy Policy by editing `_pages/privacypolicy.md`. Set `include_in_header:` to `true` or `false` to control top navigation. Delete that file if you do not want a Privacy Policy page.
 
 
 
