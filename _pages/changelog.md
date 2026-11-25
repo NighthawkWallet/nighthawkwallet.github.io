@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.01.21 (2026-11-26)**
+- Advances DarkFi SDK pin to `b87318e80` with upstream P2P stop/reconnect, TLS dialer timeout, resolved `SocketAddr` iteration, checkpoint header, and RFC 1929 SOCKS5 auth fixes.
+- Upgrades Nighthawk BLE Mesh to a forward-secret Noise-XX (`HS_VERSION=2`) handshake with `XChaCha20Poly1305` AEAD associated data and a 64-packet sliding replay window, and brings iOS to 22/22 C ABI parity.
+- Refreshes Android CoinGecko certificate pinning with Google Trust Services backup pins and hardens DarkIRC chat reconnect handling.
+- Completes iOS App Store Privacy Manifest coverage (`35F9.1` system boot time via `nm` audit), resolves all compiler/SwiftLint warnings and concurrency locks, and extracts 196 new UI strings across 18 maintained locales.
+- Completes Android 17-locale translations (921 base strings) and Desktop 8-locale translations (341 UI keys), plus multi-platform release automation.
+- Adds multi-input `TransferV1`, `drk`-compatible DAO `propose` / `vote` / `exec`, UnifOMR fee/change clues, and salted Argon2id / `XChaCha20Poly1305` wrapping in Moonshine CLI, plus HTTP/2 `X-Forwarded-For` proxy hardening and metrics logging in `darkfi-lightwalletd`.
+- Lockstep with iOS 3.01.21, desktop 3.1.21, Moonshine 3.1.21, and lightwalletd 0.3.14.
+
 ## **Version 3.01.20 (2026-11-25)**
 - Rotates the Mac Studio testnet lightwalletd TLS leaf certificate pin (valid through Feb 2027).
 - Fixes DAO governance Merkle trees, proposal snapshots, and DAO treasury deposit discovery across lightwalletd-only wallets.
