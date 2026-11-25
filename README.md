@@ -13,6 +13,8 @@ Designed for GitHub Pages for super easy set up.
 
 📝 Write Privacy Policy as markdown in `privacypolicy.md`
 
+🕒 Keep a changelog in `_pages/changelog.md`
+
 ✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
 
 <img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
@@ -78,8 +80,8 @@ The videos and screenshots must have one of the following resolutions:
 
 
 
-### Step 4: Edit (or remove) Privacy Policy
-Change the Privacy Policy by editing `_pages/privacypolicy.md`. Set `include_in_header:` to `true` or `false` to control top navigation. Delete that file if you do not want a Privacy Policy page.
+### Step 4: Edit (or remove) Privacy Policy and Changelog
+Change the Privacy Policy and Changelog by editing `_pages/privacypolicy.md` and `_pages/changelog.md`. Set `include_in_header:` to `true` or `false` to control top navigation. Delete either file if you do not want that page.
 
 
 
