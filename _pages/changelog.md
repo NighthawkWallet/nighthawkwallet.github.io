@@ -6,6 +6,15 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.01.23 (2026-11-26)**
+- Sync stays trial decryption unless you turn on experimental UnifOMR.
+- Mesh sessions are capped. The handshake is opportunistic encryption, not Noise-XX.
+- iOS keeps the existing chat key when the Keychain read fails, and locks the PIN after repeated failures.
+- Moonshine pays the fee from the shuffled change output and caps a transfer at 8 inputs.
+- Desktop accepts a codesigned xmrig sidecar and migrates old vaults onto the keychain.
+- lightwalletd 0.3.15 keeps a payment clue if confirmation drops after a successful broadcast.
+- Lockstep with iOS 3.01.23, desktop 3.1.23, Moonshine 3.1.23, and lightwalletd 0.3.15.
+
 ## **Version 3.01.22 (2026-11-26)**
 - Android store text now says trial decryption is the default sync. Experimental UnifOMR stays off unless you turn it on.
 - Same Android wallet as 3.01.21: DarkFi pin `b87318e80`, Nym on by default, Noise-XX mesh.
