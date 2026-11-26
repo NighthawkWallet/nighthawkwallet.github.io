@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.01.22 (2026-11-26)**
+- Android store text now says trial decryption is the default sync. Experimental UnifOMR stays off unless you turn it on.
+- Same Android wallet as 3.01.21: DarkFi pin `b87318e80`, Nym on by default, Noise-XX mesh.
+- iOS stays 3.01.21. Desktop and Moonshine stay 3.1.21. lightwalletd stays 0.3.14.
+
 ## **Version 3.01.21 (2026-11-26)**
 - Advances DarkFi SDK pin to `b87318e80` with upstream P2P stop/reconnect, TLS dialer timeout, resolved `SocketAddr` iteration, checkpoint header, and RFC 1929 SOCKS5 auth fixes.
 - Upgrades Nighthawk BLE Mesh to a forward-secret Noise-XX (`HS_VERSION=2`) handshake with `XChaCha20Poly1305` AEAD associated data and a 64-packet sliding replay window, and brings iOS to 22/22 C ABI parity.
