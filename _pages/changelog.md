@@ -6,6 +6,11 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.01.24 (2026-11-26)**
+- iOS DarkIRC starts again after a disconnect. The previous session no longer keeps the datastore locked.
+- iOS release builds no longer write wallet diagnostics to the unified log.
+- Android stays 3.01.23. Desktop and Moonshine stay 3.1.23. lightwalletd stays 0.3.15.
+
 ## **Version 3.01.23 (2026-11-26)**
 - Sync stays trial decryption unless you turn on experimental UnifOMR.
 - Mesh sessions are capped. The handshake is opportunistic encryption, not Noise-XX.
