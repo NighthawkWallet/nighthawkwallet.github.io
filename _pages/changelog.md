@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+## **Version 3.2.01 (2026-11-28)**
+- Extracts the shared DarkFi UniFFI and UnifOMR core into standalone MIT [`blackhawk`](https://github.com/nighthawk-apps/blackhawk) (`0.3.1`) + crates.io-ready `blackhawk-unifomr`.
+- Adds optional wallet-level Double Ratchet forward secrecy (`NHDR1:` / `&dr=1` contact cards) for Nighthawk DarkIRC direct messages while maintaining full backward compatibility with upstream DarkIRC peers.
+- Adds a persistent Disable Direct Connections toggle under Settings -> Advanced and a lightweight `flow`-inspired mirrored sync waveform indicator across Android and Desktop (plus iOS Swift updates pending macOS TestFlight archive).
+- Eliminates production `.unwrap()` calls and enforces `warnings = "deny"` across `blackhawk`, `darkfi-lightwalletd`, `moonshine`, and `nighthawk-desktop`.
+- Lockstep release: Android `3.2.01` (`30200801`), Desktop `3.2.1`, Moonshine `3.2.1`, Blackhawk `0.3.1`, lightwalletd `0.3.15` (iOS pending macOS verification and TestFlight push).
+
 ## **Version 3.01.24 (2026-11-26)**
 - iOS DarkIRC starts again after a disconnect. The previous session no longer keeps the datastore locked.
 - iOS release builds no longer write wallet diagnostics to the unified log.
